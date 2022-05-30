@@ -1,0 +1,18 @@
+{
+  "name": "puppeteer-screenshot-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:guchongxi/puppeteer-screenshot-actions.git",
+  "author": "顾重 <gucx@dxy.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "puppeteer": "^14.1.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}

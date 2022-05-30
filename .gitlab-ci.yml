@@ -1,0 +1,9 @@
+stages:
+  - shot
+
+shot-job:
+  stage: shot
+  script:
+    - node -v
+  only:
+    - push
